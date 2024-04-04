@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\obj\Debug\InterFaceLabTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\obj\Debug\InterFaceLabTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\bin\Debug\InterFaceLabTask.exe.config
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\bin\Debug\InterFaceLabTask.exe
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\bin\Debug\InterFaceLabTask.pdb
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\obj\Debug\InterFaceLabTask.exe
+C:\Users\HP\source\repos\InterFaceLabTask\InterFaceLabTask\obj\Debug\InterFaceLabTask.pdb
